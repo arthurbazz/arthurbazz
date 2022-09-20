@@ -11,11 +11,11 @@ I'm a passionate Software Engineer, I'm passionate about sharing knowledge, fron
 - 🌱 I’m currently learning JavaScript, Reactjs, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can contact me by emailing mailtochibuzorarthur@gmail.com.
+- 📫 You can contact me by sending a mail to chibuzorarthur@gmail.com.
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurbazz&show_icons=true&include_all_commits=true&hide_border=true" alt="arthurbazz GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbazz&langs_count=8&layout=compact&hide_border=true" alt="arthurbazz GitHub stats" /> |
-| ------------- | ------------- |
+[![arthurbazz's github stats](https://github-readme-stats.vercel.app/api?username=arthurbazz&show_icons=true&title_color=fff&icon_color=daae1e&text_color=9f9f9f&bg_color=151515)](https://github.com/arthurbazz/) 
+[![arthurbazz's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=arthurbazz&langs_count=8&layout=compact&title_color=fff&text_color=9f9f9f&bg_color=151515)](https://github.com/arthurbazz/)
 
 ![](https://komarev.com/ghpvc/?username=arthurbazz&color=blueviolet)
