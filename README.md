@@ -2,14 +2,14 @@
 
  [![Linkedin Badge](https://img.shields.io/badge/-chibuzoruzoaru-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chibuzoruzoaru/)](https://www.linkedin.com/in/chibuzoruzoaru/) [![Twitter Badge](https://img.shields.io/badge/-@arthur-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/arthur_bazz)](https://twitter.com/arthur_bazz)
 
-I'm a passionate Software Engineer, I'm passionate about sharing knowledge, frontend software technologies, documentation, web engineering...
+I'm a passionate Software Engineering, Cloud Engineering and DevOps...
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 🌱 I’m currently learning JavaScript, Reactjs, and Python.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
+- 🌱 I’m currently gaining real-world experience by building projects on the cloud, and mastering various AWS services and technologies .
+- 😊 I’m looking for open source projects, hackathons, internships, and entry-level opportunities.
+- 💼 Job interests: Cloud Engineer, DevOps Engineer.
 - 📫 You can contact me by sending a mail to chibuzorarthur@gmail.com.
 
 ---
